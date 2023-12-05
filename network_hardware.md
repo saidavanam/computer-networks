@@ -1,0 +1,35 @@
+Based on the content from "Computer Networks, Fifth Edition" by Andrew S. Tanenbaum and David J. Wetherall, I've prepared detailed notes on the topic "Network Hardware" covering Personal Area Networks (PANs), Local Area Networks (LANs), Metropolitan Area Networks (MANs), Wide Area Networks (WANs), and Internetworks.
+
+---
+
+## 1.2 Network Hardware 🖥️
+
+### **1.2.1 Personal Area Networks (PANs)** 📱
+- **Definition & Examples**: PANs enable communication over a short range around a person, often using wireless technology like Bluetooth. Examples include connecting a computer to peripherals like a keyboard and mouse, or a mobile phone to a headset.
+- **Technologies**: Besides Bluetooth, technologies like RFID are used in PANs for applications like smartcards.
+
+### **1.2.2 Local Area Networks (LANs)** 🏠
+- **Definition & Importance**: LANs are networks within a small geographical area like a home, office, or campus. They are crucial for sharing resources and data transfer.
+- **Types**: 
+  - **Wired LANs**: Use cables, often copper or optical fiber, with technologies like Ethernet. Faster and more reliable than wireless LANs.
+  - **Wireless LANs (WLANs)**: Use radio waves, with technologies like Wi-Fi (IEEE 802.11). Popular due to ease of installation.
+- **Performance**: Wired LANs generally offer better performance compared to WLANs in terms of speed, delay, and error rates.
+
+### **1.2.3 Metropolitan Area Networks (MANs)** 🌆
+- **Definition & Scope**: MANs cover larger areas than LANs, typically a city. Examples include cable TV networks.
+- **Evolution & Use**: Originally for TV reception, these networks have evolved to provide two-way Internet services.
+
+### **1.2.4 Wide Area Networks (WANs)** 🌍
+- **Definition & Scale**: WANs span large geographical areas, such as countries or continents.
+- **Components**: Consist of transmission lines (copper, fiber, radio links) and switches or routers.
+- **Subnets**: In WANs, the collection of routers and communication lines is known as a subnet.
+- **Types**:
+  - **Wired WANs**: Use leased transmission lines.
+  - **Wireless WANs**: Include satellite systems and cellular networks.
+  - **Virtual Private Networks (VPNs)**: Use the Internet to connect different sites.
+
+### **1.2.5 Internetworks** 🌐
+- **Definition & Examples**: Internetworks or internets are collections of interconnected networks, using various technologies and protocols. The global Internet is a prime example.
+- **Formation & Importance**: Formed by connecting different types of networks, internetworks facilitate global communication and data exchange.
+
+---
